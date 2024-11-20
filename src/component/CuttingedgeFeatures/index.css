@@ -1,0 +1,68 @@
+.features-heading1 {
+  color: #927fbf;
+  background-color: #f4eeff;
+  border-radius: 18px;
+  font-weight: 500;
+  font-size: 20px;
+  box-sizing: content-box;
+  padding: 4px;
+  width: 110px;
+  border: 1px solid;
+}
+
+.features-title {
+  font-size: 33px;
+  font-weight: 510;
+  margin: 0px;
+}
+
+.features-para {
+  font-size: 18px;
+  color: rgba(71, 84, 103, 1);
+  font-family: "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+.features-main-conatiner {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.features-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.feature-item-main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.feature-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 380px;
+  text-align: center;
+  margin: 20px;
+}
+
+.feature-item-container h3 {
+  margin: 0px;
+}
+
+.feature-item-container p {
+  font-family: "Gill Sans MT", "Trebuchet MS", sans-serif;
+  color: rgba(71, 84, 103, 1);
+  font-size: 17px;
+}
+
+.img-container {
+  background-image: url("https://res.cloudinary.com/dg2fgkjxv/image/upload/v1731996785/Content_l6af97.png");
+}
